@@ -74,7 +74,7 @@
           <div class="inner">
             <h3>0</h3>
 
-            <p>Reports</p>
+            <p>Report</p>
           </div>
           <div class="icon">
             <i class="ion ion-pie-graph"></i>
